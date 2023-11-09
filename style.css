@@ -63,14 +63,14 @@ section.imagem > p {
     padding: 10px;
 }
 section#img1 {
-    background-image:url('../004/imagens/background001.jpg');
+    background-image:url('../imagens/backgroud001.jpg');
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.877);
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
 section#img2 {
-background-image: url('../004/imagens/background002.jpg');
+background-image: url('../imagens/background002.jpg');
 box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.877);
 background-position: right center;
 background-size: cover;
